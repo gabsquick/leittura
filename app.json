@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Leittura",
+    "slug": "leittura",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "predictiveBackGestureEnabled": false,
+      "package": "com.gaabs90.leittura",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a60185c8-92b5-4c1f-a952-eecc7ffc112f"
+      }
+    },
+    "owner": "gaabs90"
+  }
+}
